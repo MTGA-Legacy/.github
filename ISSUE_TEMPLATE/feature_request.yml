@@ -1,0 +1,21 @@
+name: 功能或适配建议
+description: 提议旧电视兼容性、遥控器或播放体验改进
+title: "[建议] "
+ body:
+  - type: textarea
+    id: goal
+    attributes:
+      label: 需求和使用场景
+      description: 请说明电视型号、Android API、ABI，以及希望解决的问题。
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: 建议方案
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: 已尝试的替代方案

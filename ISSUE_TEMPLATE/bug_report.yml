@@ -1,0 +1,41 @@
+name: 兼容性或缺陷
+description: 报告安装、启动、遥控器、播放或构建问题
+title: "[问题] "
+ body:
+  - type: input
+    id: repository
+    attributes:
+      label: 相关仓库和版本
+      placeholder: MTGA-Legacy/HTV，v6.0.1
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: 电视型号
+      placeholder: Hisense HZ32A36
+    validations:
+      required: true
+  - type: input
+    id: android
+    attributes:
+      label: Android 版本和 API
+      placeholder: Android 4.4.2 / API 19
+    validations:
+      required: true
+  - type: input
+    id: abi
+    attributes:
+      label: CPU ABI
+      placeholder: armeabi-v7a
+  - type: textarea
+    id: steps
+    attributes:
+      label: 复现步骤和实际结果
+      description: 请不要粘贴账号、Cookie、私有源或签名信息。
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: 脱敏日志或错误文字
