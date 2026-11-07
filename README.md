@@ -8,7 +8,7 @@ Make LegacyTV Great Again
 
 | 仓库 | 用途 | 上游 | 老电视基线 | 许可证状态 |
 | --- | --- | --- | --- | --- |
-| [`blbl`](https://github.com/MTGA-Legacy/blbl) | Bilibili 安卓客户端 | [`cat3399/blbl`](https://github.com/cat3399/blbl) | `blbl-api19` 分支，API 19；主分支为 API 21 | 上游未声明许可证，暂作上游跟踪副本 |
+| [`blbl`](https://github.com/MTGA-Legacy/blbl) | Bilibili 安卓客户端 | [`cat3399/blbl`](https://github.com/cat3399/blbl) | 默认分支 `blbl-api19`（API 19）；`main` 跟踪上游 | 上游未声明许可证，暂作上游跟踪副本 |
 | [`HTV`](https://github.com/MTGA-Legacy/HTV) | 电视直播 | [`HTWMedia/HTV`](https://github.com/HTWMedia/HTV) | 上游声明 Android 4.4+，优先验证 `armeabi-v7a` | Apache-2.0 |
 | [`LauncherTV`](https://github.com/MTGA-Legacy/LauncherTV) | 轻量电视桌面 | [`alescdb/LauncherTV`](https://github.com/alescdb/LauncherTV) | 上游最低 API 14 | Apache-2.0 |
 

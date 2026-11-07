@@ -2,7 +2,7 @@
 
 ## 第一阶段：维护三个上游 fork
 
-- `blbl`：以 `blbl-api19` 为 Android 4.4 适配基线，主分支跟踪上游最新代码。
+- `blbl`：默认分支已设为 `blbl-api19`，作为 Android 4.4 / API 19 适配基线；`main` 跟踪上游主分支。
 - `HTV`：独立验证直播、EPG、自动换源和 `armeabi-v7a` 构建产物。
 - `LauncherTV`：维护轻量桌面、遥控器焦点和老系统安装兼容性。
 
