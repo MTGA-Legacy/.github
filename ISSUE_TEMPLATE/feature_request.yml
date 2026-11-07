@@ -1,7 +1,7 @@
 name: 功能或适配建议
 description: 提议旧电视兼容性、遥控器或播放体验改进
 title: "[建议] "
- body:
+body:
   - type: textarea
     id: goal
     attributes:

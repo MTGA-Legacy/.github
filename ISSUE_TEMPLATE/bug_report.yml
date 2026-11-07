@@ -1,7 +1,7 @@
 name: 兼容性或缺陷
 description: 报告安装、启动、遥控器、播放或构建问题
 title: "[问题] "
- body:
+body:
   - type: input
     id: repository
     attributes:
