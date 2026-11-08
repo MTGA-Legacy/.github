@@ -21,3 +21,5 @@ Make LegacyTV Great Again
 - 旧设备兼容性以真实电视安装和播放结果为准，不能只用 CI 通过代替验收。
 
 详细的仓库分层和后续扩展建议见 [`docs/REPOSITORY-STRUCTURE.md`](docs/REPOSITORY-STRUCTURE.md)。
+
+组织级兼容性看板：[LegacyTV 兼容性与维护](https://github.com/orgs/MTGA-Legacy/projects/1)。
